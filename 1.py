@@ -6,5 +6,6 @@ def f(s):
             ok=False
     return ok
 
+
 s=input()
 print(f(s))
