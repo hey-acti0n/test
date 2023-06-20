@@ -6,6 +6,8 @@ def f(s):
             ok=False
     return ok
 
+def tr(x):
+    
 
 s=input()
 print(f(s))
