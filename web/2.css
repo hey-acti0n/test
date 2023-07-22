@@ -1,0 +1,15 @@
+h1 {
+    background: green;
+}
+.parag1 {
+   background: brown;
+   font-size: 20px;
+   color: white;
+}
+
+.parag3 {
+    font-size: 24px;
+    font-style: oblique;
+    text-align: center;
+    text-shadow: 1px 1px 0px rgba(0,255,0) ;
+}
